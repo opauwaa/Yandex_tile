@@ -1,0 +1,5 @@
+0,burg.png
+1,chik.jpg
+2,cup.png
+3,cup.jpg
+4,ice.jpg
